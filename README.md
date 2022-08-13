@@ -9,12 +9,23 @@ A continuación encontrarás un proyecto pequeño de Javascript vanilla, el cual
 * Funciones
 * Ciclos
 
-## Ejecución
+## :movie_camera: Tutorial 
+
+La explicación paso a paso del desarrollo de este proyecto pueden encontrarla en mi canal de [Youtube](https://youtu.be/FKWjiaTEgNA)
+
+## :computer: Demo: 
+
+Ver aquí: [https://catalogo.js.vadok.dev/](https://catalogo.js.vadok.dev/)
+
+## :hammer: Ejecución
 
 Se recomienda usar la extensión [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) de [Visual Studio Code](https://code.visualstudio.com/). De lo contrario, basta con levantar un servidor web el cual sirva el archivo estático `index.html`
 
-## Tutorial 
+## :mortar_board: Links 
 
-La explicación paso a paso del desarrollo de este proyecto pueden encontrarla en mi canal de [Youtube](https://www.youtube.com/c/VadokDev/)
+* Demo: https://catalogo.js.vadok.dev/
+* Repositorio con el proyecto final: https://github.com/VadokDev/Catalogo-Javascript
 
-
+* Bootstrap: https://getbootstrap.com/
+* LoremFlickr: https://loremflickr.com/
+* Liveserver: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
